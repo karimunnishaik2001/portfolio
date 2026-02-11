@@ -17,8 +17,9 @@ body {
 }
 
 h1 {
-  font-size: 26px;
+  font-size: 28px;   /* Increased name size */
   margin-bottom: 4px;
+  color: #000;       /* Darker name */
 }
 
 .subtitle {
@@ -28,7 +29,7 @@ h1 {
 }
 
 section {
-  margin-bottom: 15px;   /* Reduced space */
+  margin-bottom: 15px;
 }
 
 h2 {
@@ -36,6 +37,7 @@ h2 {
   margin-bottom: 6px;
   border-bottom: 1px solid #ddd;
   padding-bottom: 3px;
+  color: #111;   /* Darker section headings */
 }
 
 p {
