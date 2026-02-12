@@ -86,3 +86,15 @@ footer{
   h1{font-size:26px}
   h2{font-size:20px}
 }
+section{
+  margin-bottom:15px;
+}
+
+.container{
+  transition:.3s;
+}
+
+.container:hover{
+  transform:translateY(-3px);
+}
+
